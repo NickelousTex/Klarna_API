@@ -7,7 +7,7 @@ __NOTE__: The ```klarna_api``` code takes advantage of the ```requests``` librar
 _Also Note_: To obtain an authorization token to generate an order will require using the Klarna SDK.
 
 ### Config setup
-While not required, I prefer configuration setups when possible. To use the code as it you would need a ```~/.ssh/klarna_api.json``` file. 
+While not required, I prefer configuration setups when possible. To use the code as is you would need a ```~/.ssh/klarna_api.json``` file. 
 The general file setup is:
 
 {
